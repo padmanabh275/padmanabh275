@@ -1,7 +1,7 @@
 ## Hi there 👋 [Padmanabh/ Paddy]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-blue)](https://www.linkedin.com/in/padmanabhbosamia/)
-[![Website](https://img.shields.io/badge/Website-yourwebsite.com-green)](https://saleswave.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-blue)](https://www.linkedin.com/in/padmanabhbosamia)
+[![Website](https://img.shields.io/badge/Website-saleswave.in-green)](https://saleswave.in)
 
 ## About Me
 - 🔭 I'm currently working on AI/Transformers/ AI Agents
@@ -17,11 +17,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=padmanabh275&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabh275&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=padmanabh275&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 📈 Weekly Development Breakdown
 <!--START_SECTION:waka-->

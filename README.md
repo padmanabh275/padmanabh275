@@ -1,6 +1,6 @@
 ## Hi there 👋 [Padmanabh/ Paddy]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-blue)](https://www.linkedin.com/in/padmanabhbosamia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Padmanabh-blue)](https://www.linkedin.com/in/padmanabhbosamia)
 [![Website](https://img.shields.io/badge/Website-saleswave.in-green)](https://saleswave.in)
 
 ## About Me
@@ -27,8 +27,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-blue)]((https://www.linkedin.com/in/padmanabhbosamia/))
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-red)](mailto:paddy1@live.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Padmanabh-blue)]((https://www.linkedin.com/in/padmanabhbosamia/))
+[![Email](https://img.shields.io/badge/paddy1@live.in-red)](mailto:paddy1@live.in)
 
 ---
 ⭐️ From paddy(https://github.com/padmanabh275)

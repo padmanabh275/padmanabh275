@@ -5,7 +5,7 @@
 
 ## About Me
 - 🔭 I'm currently working on AI/Transformers/ AI Agents
-- 🌱 I'm currently learning [Technologies/Skills]
+- 🌱 I'm currently learning Creating AI Agents for Small Business 
 - 💬 Ask me about Combining Sales + Technologies role in AI
 - 📫 How to reach me: +91 9427355811
 - ⚡ Fun fact: I am an avid Adventure Sports lover.. 

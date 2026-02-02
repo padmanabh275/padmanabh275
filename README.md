@@ -9,11 +9,8 @@
 [![Email](https://img.shields.io/badge/Email-Paddy1%40live.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Paddy1@live.in)
 
 <br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=padmanabh275&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabh275&layout=compact&theme=radical&hide_border=true)
-
-
+[![GitHub followers](https://img.shields.io/github/followers/padmanabh275?label=Followers&style=flat-square)](https://github.com/padmanabh275)
+[![GitHub profile repo](https://img.shields.io/github/last-commit/padmanabh275/padmanabh275?label=Profile%20repo&style=flat-square)](https://github.com/padmanabh275/padmanabh275)
 <br>
 
 ---

@@ -11,7 +11,11 @@
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/padmanabh275?label=Followers&style=flat-square)](https://github.com/padmanabh275)
-[![GitHub profile repo](https://img.shields.io/github/last-commit/padmanabh275/padmanabh275?label=Profile%20repo&style=flat-square)](https://github.com/padmanabh275)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpadmanabh275&label=Public%20repos&query=%24.public_repos&color=blue&style=flat-square)](https://github.com/padmanabh275?tab=repositories)
+[![Profile last commit](https://img.shields.io/github/last-commit/padmanabh275/padmanabh275?label=Profile%20updated&style=flat-square)](https://github.com/padmanabh275/padmanabh275)
+[![Languages count](https://img.shields.io/github/languages/count/padmanabh275/padmanabh275?label=Languages%20used&style=flat-square)](https://github.com/padmanabh275/padmanabh275)
+[![Top language](https://img.shields.io/github/languages/top/padmanabh275/padmanabh275?label=Top%20language&style=flat-square)](https://github.com/padmanabh275/padmanabh275)
+
 
 <br>
 

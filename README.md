@@ -15,7 +15,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/padmanabh275?label=Followers&style=flat-square)](https://github.com/padmanabh275)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpadmanabh275&label=Public%20repos&query=%24.public_repos&color=blue&style=flat-square)](https://github.com/padmanabh275?tab=repositories)
 [![Profile last commit](https://img.shields.io/github/last-commit/padmanabh275/padmanabh275?label=Profile%20updated&style=flat-square)](https://github.com/padmanabh275/padmanabh275)
-[![Languages used (all repos)](https://img.shields.io/badge/Languages%20used%20(all%20repos)-REPLACE_LANG_COUNT-blue?style=flat-square)](https://github.com/padmanabh275?tab=repositories)
+[![Languages used (all repos)](https://img.shields.io/badge/Languages%20used%20(all%20repos)-19-blue?style=flat-square)](https://github.com/padmanabh275?tab=repositories)
 [![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20SAS%20%7C%20Markdown%20%7C%20more-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/padmanabh275?tab=repositories)
 
 <br>

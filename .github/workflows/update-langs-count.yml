@@ -1,0 +1,61 @@
+# Updates README with count of unique languages used across all public repos
+# Run: weekly (Sunday 00:00 UTC) or manually (workflow_dispatch)
+
+name: Update languages count
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Get languages count
+        id: langs
+        run: |
+          OWNER="${{ github.repository_owner }}"
+          TOKEN="${{ secrets.GITHUB_TOKEN }}"
+          REPOS=$(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/users/$OWNER/repos?per_page=100&type=owner" | python3 -c "
+          import sys, json
+          data = json.load(sys.stdin)
+          for r in data:
+              print(r['name'])
+          ")
+          ALL_LANGS=''
+          for repo in $REPOS; do
+            LANGS=$(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/repos/$OWNER/$repo/languages" | python3 -c "
+          import sys, json
+          try:
+              data = json.load(sys.stdin)
+              print(' '.join(data.keys()))
+          except: pass
+          ")
+            ALL_LANGS="$ALL_LANGS $LANGS"
+          done
+          COUNT=$(echo $ALL_LANGS | tr ' ' '\n' | sort -u | grep -v '^$' | wc -l)
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Unique languages across all repos: $COUNT"
+
+      - name: Update README
+        run: |
+          COUNT="${{ steps.langs.outputs.count }}"
+          # Replace placeholder or previous count with new count (badge URL)
+          sed -i "s|Languages%20used%20(all%20repos)-REPLACE_LANG_COUNT-blue|Languages%20used%20(all%20repos)-$COUNT-blue|g" README.md
+          sed -i "s|Languages%20used%20(all%20repos)-[0-9]*-blue|Languages%20used%20(all%20repos)-$COUNT-blue|g" README.md
+          echo "Updated languages count to: $COUNT"
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: update languages count in README" && git push)

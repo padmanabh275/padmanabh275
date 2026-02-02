@@ -9,8 +9,10 @@
 [![Email](https://img.shields.io/badge/Email-Paddy1%40live.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Paddy1@live.in)
 
 <br>
+
 [![GitHub followers](https://img.shields.io/github/followers/padmanabh275?label=Followers&style=flat-square)](https://github.com/padmanabh275)
-[![GitHub profile repo](https://img.shields.io/github/last-commit/padmanabh275/padmanabh275?label=Profile%20repo&style=flat-square)](https://github.com/padmanabh275/padmanabh275)
+[![GitHub profile repo](https://img.shields.io/github/last-commit/padmanabh275/padmanabh275?label=Profile%20repo&style=flat-square)](https://github.com/padmanabh275)
+
 <br>
 
 ---

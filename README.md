@@ -36,12 +36,12 @@ I'm a **Senior Data Science & AI Consultant** with 12+ years of experience build
 | Area | Tools & frameworks |
 |------|---------------------|
 | **Languages** | Python, SAS |
-| **AI/ML** | PyTorch, TensorFlow, Scikit-learn, Transformers, LangChain |
-| **Gen AI** | Hugging Face, prompt engineering, RAG pipelines |
+| **AI/ML** | PyTorch, TensorFlow, Scikit-learn, Transformers |
+| **RAG & Agents** | LangChain (RAG, chains), CrewAI, RAG pipelines, vector stores (Pinecone, Chroma, FAISS) |
+| **Gen AI** | Hugging Face, prompt engineering |
 | **Cloud** | GCP, Azure Databricks, AWS |
 | **Data** | pandas, NumPy, SQL, APIs |
-| **Automation** | Power Automate, workflow orchestration |
-
+| **Automation** | Power Automate, n8n, workflow orchestration |
 ---
 
 ## 🚀 What I'm working on

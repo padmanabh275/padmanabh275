@@ -1,34 +1,65 @@
-## Hi there 👋 [Padmanabh/ Paddy]
+# Hi 👋, I'm Padmanabh Bosamia (Paddy)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Padmanabh-blue)](https://www.linkedin.com/in/padmanabhbosamia)
-[![Website](https://img.shields.io/badge/Website-saleswave.in-green)](https://saleswave.in)
+### AI/ML & Data Science | 12+ years | Consulting & Engineering
 
-## About Me
-- 🔭 I'm currently working on AI/Transformers/ AI Agents
-- 🌱 I'm currently learning Creating AI Agents for Small Business 
-- 💬 Ask me about Combining Sales + Technologies role in AI
-- 📫 How to reach me: +91 9427355811
-- ⚡ Fun fact: I am an avid Adventure Sports lover.. 
+<br>
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmanabhbosamia)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/padmanabhbosamia)
+[![Email](https://img.shields.io/badge/Email-Paddy1%40live.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Paddy1@live.in)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=padmanabh275&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabh275&layout=compact&theme=radical)
+<br>
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=padmanabh275&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://github.com/padmanabh275">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=padmanabh275&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/padmanabh275">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabh275&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</a>
 
-## 📈 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Padmanabh-blue)]((https://www.linkedin.com/in/padmanabhbosamia/))
-[![Email](https://img.shields.io/badge/paddy1@live.in-red)](mailto:paddy1@live.in)
+<br>
 
 ---
-⭐️ From paddy(https://github.com/padmanabh275)
+
+## 👋 About me
+
+I'm a **Senior Data Science & AI Consultant** with 12+ years of experience building and deploying AI/ML solutions for enterprise clients. I specialise in **Generative AI**, **prompt engineering**, **RAG systems**, and **Python**—from prototyping to production.
+
+- **Current:** Founder of Saleswave Consulting www.saleswave.in Worked earlier as a Senior Consultant at Deloitte (Banking AI/ML, Energy, Insurance Automation)
+- **Focus:** LLMs, Transformers, workflow automation, and turning data into actionable insights
+- **Background:** Technical consulting at Deloitte & Accord Business Group; banking, energy, insurance, FMCG
+
+---
+
+## 🛠️ Tech stack
+
+| Area | Tools & frameworks |
+|------|---------------------|
+| **Languages** | Python, SAS |
+| **AI/ML** | PyTorch, TensorFlow, Scikit-learn, Transformers, LangChain |
+| **Gen AI** | Hugging Face, prompt engineering, RAG pipelines |
+| **Cloud** | GCP, Azure Databricks, AWS |
+| **Data** | pandas, NumPy, SQL, APIs |
+| **Automation** | Power Automate, workflow orchestration |
+
+---
+
+## 🚀 What I'm working on
+
+- **Generative AI** – NLP, Multimodal & Convolutions (training & hands-on)
+- **AI applications** – Building and publishing on [Hugging Face](https://huggingface.co/spaces/padmanabhbosamia)
+- **Consulting** – AI/ML adoption, prompt chains, and productivity use cases for clients
+
+---
+
+## 📫 Connect
+
+- **LinkedIn:** [linkedin.com/in/padmanabhbosamia](https://www.linkedin.com/in/padmanabhbosamia)
+- **Hugging Face:** [huggingface.co/spaces/padmanabhbosamia](https://huggingface.co/spaces/padmanabhbosamia)
+- **Email:** Paddy1@live.in
+
+---
+
+<p align="center">
+  <i>Building AI solutions that work in the real world.</i> ✨
+</p>

@@ -9,12 +9,16 @@
 [![Email](https://img.shields.io/badge/Email-Paddy1%40live.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Paddy1@live.in)
 
 <br>
+**GitHub stats**
 
 [![GitHub followers](https://img.shields.io/github/followers/padmanabh275?label=Followers&style=flat-square)](https://github.com/padmanabh275)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpadmanabh275&label=Public%20repos&query=%24.public_repos&color=blue&style=flat-square)](https://github.com/padmanabh275?tab=repositories)
 [![Profile last commit](https://img.shields.io/github/last-commit/padmanabh275/padmanabh275?label=Profile%20updated&style=flat-square)](https://github.com/padmanabh275/padmanabh275)
-[![Languages count](https://img.shields.io/github/languages/count/padmanabh275/padmanabh275?label=Languages%20used&style=flat-square)](https://github.com/padmanabh275/padmanabh275)
-[![Top language](https://img.shields.io/github/languages/top/padmanabh275/padmanabh275?label=Top%20language&style=flat-square)](https://github.com/padmanabh275/padmanabh275)
+[![Languages across repos](https://img.shields.io/badge/Languages-Python%20%7C%20SAS%20%7C%20Markdown%20%7C%20more-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/padmanabh275?tab=repositories)
+
+**Top languages (all repos)**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padmanabh275&layout=compact&hide_border=true)
 
 
 <br>
